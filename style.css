@@ -700,6 +700,15 @@ section.section6 .bg::after {
   background-size: 100%;
   background-position: 50% 0%;
 }
+section.section6 h1 {
+  font-size: 35px;
+  line-height: 35px;
+  font-style: italic;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  margin: 0 0 35px;
+  text-align: center;
+  width: 100%;
+}
 section.section6 .splide {
   max-width: 1270px;
   height: 340px;
@@ -1162,6 +1171,9 @@ footer .social-box a.social-btn {
   section.section5 .content .splide__track .name {
     font-size: 25px;
   }
+  section.section6 h1 {
+    font-size: 30px;
+  }
   section.section6 .splide {
     max-width: 900px;
     height: 220px;
@@ -1352,10 +1364,15 @@ footer .social-box a.social-btn {
     line-height: 19px;
   }
   section.section6 {
-    padding: 70px 0 45px;
+    padding: 80px 0 45px;
   }
   section.section6 .bg {
     height: calc(100% - 38px);
+  }
+  section.section6 h1 {
+    font-size: 25px;
+    line-height: 1;
+    margin: 0 0 20px;
   }
   section.section6 .splide {
     max-width: 600px;
@@ -1531,6 +1548,9 @@ footer .social-box a.social-btn {
   }
   section.section5 .splide__arrow--next {
     right: 0em;
+  }
+  section.section6 h1 {
+    font-size: 21px;
   }
   section.section6 .splide {
     max-width: 310px;
