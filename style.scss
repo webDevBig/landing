@@ -237,6 +237,7 @@ section {
     &.section1 {
         height: 877px;
         position: relative;
+        overflow-x: hidden;
 
         .bg {
             position: absolute;
