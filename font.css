@@ -2,46 +2,46 @@
     font-family: "Montserrat-extralight";
     font-style: normal;
     font-weight: 200;
-    src: local("Montserrat-extralight"), url("font/Montserrat/static/Montserrat-ExtraLight.ttf");
+    src: local("Montserrat-extralight"), url("font/Montserrat/static/Montserrat-ExtraLight.woff");
 }
 
 @font-face {
     font-family: "Montserrat-light";
     font-style: normal;
     font-weight: 300;
-    src: local("Montserrat-light"), url("font/Montserrat/static/Montserrat-Light.ttf");
+    src: local("Montserrat-light"), url("font/Montserrat/static/Montserrat-Light.woff");
 }
 
 @font-face {
     font-family: "Montserrat-Regular";
     font-style: normal;
     font-weight: 400;
-    src: local("Montserrat-Regular"), url("font/Montserrat/static/Montserrat-Regular.ttf");
+    src: local("Montserrat-Regular"), url("font/Montserrat/static/Montserrat-Regular.woff");
 }
 @font-face {
     font-family: "Montserrat-Medium";
     font-style: normal;
     font-weight: 500;
-    src: local("Montserrat-Medium"), url("font/Montserrat/static/Montserrat-Medium.ttf");
+    src: local("Montserrat-Medium"), url("font/Montserrat/static/Montserrat-Medium.woff");
 }
 
 @font-face {
     font-family: "Montserrat-SemiBold";
     font-style: normal;
     font-weight: 600;
-    src: local("Montserrat-SemiBold"), url("font/Montserrat/static/Montserrat-SemiBold.ttf");
+    src: local("Montserrat-SemiBold"), url("font/Montserrat/static/Montserrat-SemiBold.woff");
 }
 
 @font-face {
     font-family: "Montserrat-Bold";
     font-style: normal;
     font-weight: 700;
-    src: local("Montserrat-Bold"), url("font/Montserrat/static/Montserrat-Bold.ttf");
+    src: local("Montserrat-Bold"), url("font/Montserrat/static/Montserrat-Bold.woff");
 }
 
 @font-face {
     font-family: "Montserrat-ExtraBold";
     font-style: normal;
     font-weight: 800;
-    src: local("Montserrat-ExtraBold"), url("font/Montserrat/static/Montserrat-ExtraBold.ttf");
+    src: local("Montserrat-ExtraBold"), url("font/Montserrat/static/Montserrat-ExtraBold.woff");
 }
