@@ -530,6 +530,44 @@ section.section4 .info-box .img-box {
   width: 119px;
   height: 119px;
   position: relative;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 146%;
+  background-color: #ebebeb;
+  border-radius: 50%;
+}
+section.section4 .info-box .img-box.img-box1 {
+  background-size: 159%;
+}
+section.section4 .info-box .img-box.img-box2 {
+  background-size: 159%;
+}
+section.section4 .info-box .img-box.img-box5 {
+  background-size: 210%;
+  background-position: 50% 4%;
+}
+section.section4 .info-box .img-box.img-box6 {
+  background-size: 159%;
+  background-position: 50% 6%;
+}
+section.section4 .info-box .img-box.img-box7 {
+  background-position: 50% -4%;
+}
+section.section4 .info-box .img-box.img-box8 {
+  background-size: 231%;
+  background-position: 50% 3%;
+}
+section.section4 .info-box .img-box.img-box9 {
+  background-size: 159%;
+  background-position: 50% -3%;
+}
+section.section4 .info-box .img-box.img-box10 {
+  background-size: 181%;
+  background-position: 50% 1%;
+}
+section.section4 .info-box .img-box.img-box11 {
+  background-size: 159%;
+  background-position: 50% -4%;
 }
 section.section4 .info-box .img-box img {
   width: 100%;

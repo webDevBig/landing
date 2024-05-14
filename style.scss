@@ -611,6 +611,52 @@ section {
                 width: 119px;
                 height: 119px;
                 position: relative;
+                background-position: top center;
+                background-repeat: no-repeat;
+                background-size: 146%;
+                background-color: #ebebeb;
+                border-radius: 50%;
+                &.img-box1 {
+                    background-size: 159%;
+                }
+                &.img-box2 {
+                    background-size: 159%;
+                }
+
+                &.img-box5 {
+                    background-size: 210%;
+                    background-position: 50% 4%;
+                }
+
+                &.img-box6 {
+                    background-size: 159%;
+                    background-position: 50% 6%;
+                }
+
+                &.img-box7 {
+                    background-position: 50% -4%;
+                }
+
+                &.img-box8 {
+                    background-size: 231%;
+                    background-position: 50% 3%;
+                }
+
+                &.img-box9 {
+                    background-size: 159%;
+                    background-position: 50% -3%;
+
+                }
+
+                &.img-box10 {
+                    background-size: 181%;
+                    background-position: 50% 1%;
+                }
+
+                &.img-box11 {
+                    background-size: 159%;
+                    background-position: 50% -4%;
+                }
 
                 img {
                     width: 100%;
