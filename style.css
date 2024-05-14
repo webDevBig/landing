@@ -12,6 +12,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: var(--secondary-color);
   width: 100vw;
@@ -215,7 +219,6 @@ section {
 section.section1 {
   height: 877px;
   position: relative;
-  overflow-x: hidden;
 }
 section.section1 .bg {
   position: absolute;

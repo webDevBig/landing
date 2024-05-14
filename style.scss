@@ -13,6 +13,10 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     background-color: var(--secondary-color);
     width: 100vw;
@@ -237,7 +241,7 @@ section {
     &.section1 {
         height: 877px;
         position: relative;
-        overflow-x: hidden;
+        // overflow-x: hidden;
 
         .bg {
             position: absolute;
@@ -1253,6 +1257,7 @@ footer {
     header {
         max-width: 850px;
     }
+
     .nav-list {
         margin: 0;
     }
